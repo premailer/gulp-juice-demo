@@ -1,6 +1,8 @@
 # premailer-gulp-juice demo
 
-Preflight HTML mail in JavaScript using [pug](http://http://pugjs.org/) and [less](http://lesscss.org/) demo.
+Preflight HTML mail in JavaScript using [pug](http://http://pugjs.org/) and [less](http://lesscss.org/).
+
+This demo built using Gulp 4.
 
 ## Install
 
@@ -16,3 +18,7 @@ npm install
 ```bash
 gulp mail
 ```
+
+## License
+
+MIT
