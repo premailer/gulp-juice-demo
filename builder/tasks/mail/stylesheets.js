@@ -5,7 +5,7 @@ import postcss from 'gulp-postcss';
 import autoprefixer from 'autoprefixer';
 import less from 'gulp-less';
 
-const stylesheetsPath = 'mail/stylesheets';
+const stylesheetsPath = 'src/mail/stylesheets';
 
 const stylesheetsGlob = stylesheetsPath + '/**/*.less';
 
