@@ -1,7 +1,6 @@
 'use strict';
 
 import gulp from 'gulp';
-import rename from 'gulp-rename';
 import postcss from 'gulp-postcss';
 import autoprefixer from 'autoprefixer';
 import less from 'gulp-less';
